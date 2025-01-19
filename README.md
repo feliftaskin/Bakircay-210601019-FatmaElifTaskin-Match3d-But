@@ -49,7 +49,7 @@ Assets Used: Custom assets created for the project.
 Visual Design: Clean UI and soft lighting effects for an immersive experience.
 Animations: Utilized Unity Animator and DOTween for object interactions and skill effects.
 🎮 Playable Game Link = [Match 3D GAME](https://play.unity.com/en/games/995385ca-35b0-47a4-b2bd-deaea49b8d77/210601019fatmaeliftaskinmatch3d)
-👉 Playable Game on GitHub Pages = [GitHub Repository](https://github.com/feliftaskin/Bakircay-210601019-FatmaElifTaskin-Match3d)
+👉 Playable Game on GitHub Pages = [GitHub Repository](https://github.com/feliftaskin/Bakircay-210601019-FatmaElifTaskin-Match3d-But/tree/main?tab=readme-ov-file)
 
 
 📂 Repository
