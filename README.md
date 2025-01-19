@@ -1,4 +1,4 @@
-İtch.io Game Link = [Match 3D GAME](https://eflinns.itch.io/match-3d)
+İtch.io Game Link = [Match 3D GAME](https://eflinns.itch.io/match3d)
 🎮 Playable Game Link = [Match 3D GAME](https://play.unity.com/en/games/995385ca-35b0-47a4-b2bd-deaea49b8d77/210601019fatmaeliftaskinmatch3d)
 🎮 Bakırçay Fall-2024 Game Development Project: Resit exam Submission
 This is a 3D matching game I developed as part of my coursework at Bakırçay University during the Fall 2024 semester. My goal with this project was to enhance my game development skills using Unity and to gain practical experience with 3D object interactions, animations, and mechanics.
