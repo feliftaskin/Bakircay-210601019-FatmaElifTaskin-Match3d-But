@@ -6,7 +6,7 @@ SCREENS:
 ![Ekran Görüntüsü (361)](https://github.com/user-attachments/assets/66117ead-f58f-424d-9dce-5d6de1ce4b20)
 
 
-🛠️ Final Submission Features
+🛠️ Resit exam Features
 Core Mechanics
 Game Area Setup
 
